@@ -36,6 +36,6 @@ defmodule StringsAndBinaries do
   end
 end
 
-IO.puts StringsAndBinaries.calculate('10 + 12')
+IO.puts StringsAndBinaries.calculate('123 + 27')
 # => 150
 
