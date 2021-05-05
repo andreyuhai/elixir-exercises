@@ -15,3 +15,4 @@
   - [Strings and Binaries Exercise 2](chapter-11/strings-and-binaries-2.exs)
   - [Strings and Binaries Exercise 4](chapter-11/strings-and-binaries-4.exs)
   - [Strings and Binaries Exercise 5](chapter-11/strings-and-binaries-5.exs)
+  - [Strings and Binaries Exercise 6](chapter-11/strings-and-binaries-6.exs)
