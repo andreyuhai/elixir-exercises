@@ -9,3 +9,4 @@
   - [Lists And Recursion Exercise 5](chapter-10/lists-and-recursion-5.exs)
   - [Lists And Recursion Exercise 6](chapter-10/lists-and-recursion-6.exs)
   - [Lists And Recursion Exercise 7](chapter-10/lists-and-recursion-7.exs)
+  - [Lists And Recursion Exercise 8](chapter-10/lists-and-recursion-8.exs)
