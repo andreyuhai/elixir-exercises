@@ -3,6 +3,11 @@ defmodule StringsAndBinaries do
   # Write a function to capitalize the sentences in a string. Each sentence is
   # terminated by a period and a space. Right now, the case of the characters
   # in the string is random.
+  #
+  # 1ST METHOD
+  def capitalize_sentences(str), do: String.split(str, ". ") |> Enum.map(&String.capitalize/1) |> Enum.reduce(fn x, acc -> acc <> ". " <> x end)
+
+  # 2ND METHOD
   def capitalize_sentences(str), do: _capitalize_sentences(str, "", 2)
 
   def _capitalize_sentences(<<>>, acc, _),                                do: acc
