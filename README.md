@@ -12,3 +12,5 @@
   - [Lists and Recursion Exercise 8](chapter-10/lists-and-recursion-8.exs)
 - [Chapter 11](chapter-11)
   - [Strings and Binaries Exercise 1](chapter-11/strings-and-binaries-1.exs)
+  - [Strings and Binaries Exercise 2](chapter-11/strings-and-binaries-2.exs)
+  - [Strings and Binaries Exercise 4](chapter-11/strings-and-binaries-4.exs)
