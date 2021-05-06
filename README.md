@@ -17,3 +17,5 @@
   - [Strings and Binaries Exercise 5](chapter-11/strings-and-binaries-5.exs)
   - [Strings and Binaries Exercise 6](chapter-11/strings-and-binaries-6.exs)
   - [Strings and Binaries Exercise 7](chapter-11/strings-and-binaries-7.exs)
+- [Chapter 12](chapter-12)
+  - [Control Flow Exercise 1](chapter-12/control-flow-1.exs)
