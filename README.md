@@ -19,3 +19,4 @@
   - [Strings and Binaries Exercise 7](chapter-11/strings-and-binaries-7.exs)
 - [Chapter 12](chapter-12)
   - [Control Flow Exercise 1](chapter-12/control-flow-1.exs)
+  - [Control Flow Exercise 3](chapter-12/control-flow-3.exs)
