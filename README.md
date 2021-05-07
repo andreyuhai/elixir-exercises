@@ -21,4 +21,4 @@
   - [Control Flow Exercise 1](chapter-12/control-flow-1.exs)
   - [Control Flow Exercise 3](chapter-12/control-flow-3.exs)
 - [Chapter 15](chapter-15)
-  - [Working with Multiple Processes](chapter-15/working-with-multiple-processes-2.exs)
+  - [Working with Multiple Processes Exercise 2](chapter-15/working-with-multiple-processes-2.exs)
