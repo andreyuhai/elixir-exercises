@@ -1,4 +1,4 @@
-### Programming Elixir ≥ 1.6 | Exercise Solutions
+### Programming Elixir ≥ 1.6 (By Dave Thomas) | Exercise Solutions
 
 - [Chapter 7](chapter-07)
   - [Lists and Recursion Exercise 1](chapter-07/lists-and-recursion-1.exs)
