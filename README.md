@@ -26,4 +26,5 @@
   - [Working with Multiple Processes Exercise 4](chapter-15/working-with-multiple-processes-4.exs)
   - [Working with Multiple Processes Exercise 5-1](chapter-15/working-with-multiple-processes-5-1.exs)
   - [Working with Multiple Processes Exercise 5-2](chapter-15/working-with-multiple-processes-5-2.exs)
-
+- [Chapter 16](chapter-16)
+  - [Nodes Exercise 3](chapter-16/nodes-3.exs)
