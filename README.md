@@ -34,4 +34,5 @@
   - [Nodes Exercise 4](chapter-16/nodes-4.exs)
 - [Chapter 17](chapter-17)
   - [OTP Servers Exercise 1](chapter-17/otp-servers-1.exs)
+  - [OTP Servers Exercise 2](chapter-17/otp-servers-2.exs)
 
