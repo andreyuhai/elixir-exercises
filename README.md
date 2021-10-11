@@ -32,4 +32,6 @@
 - [Chapter 16](chapter-16)
   - [Nodes Exercise 3](chapter-16/nodes-3.exs)
   - [Nodes Exercise 4](chapter-16/nodes-4.exs)
+- [Chapter 17](chapter-17)
+  - [OTP Servers Exercise 1](chapter-17/otp-servers-1.exs)
 
